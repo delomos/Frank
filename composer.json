@@ -1,8 +1,11 @@
 {
+  "name": "delomos/Frank",
+  "type": "wordpress-theme",
   "require": {
     "squizlabs/php_codesniffer": "dev-phpcs-fixer",
     "phpmd/phpmd": "dev-master",
-    "scrutinizer/php-analyzer": "dev-master"
+    "scrutinizer/php-analyzer": "dev-master",
+    "composer/installers": "~1.0.0"
   },
   "minimum-stability": "dev"
 }
